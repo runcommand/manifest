@@ -8,7 +8,7 @@ use WP_CLI\Utils;
 class Command {
 
 	/**
-	 * What's going on inside of WordPress.
+	 * See what's going on inside of WordPress.
 	 *
 	 * ## OPTIONS
 	 *
