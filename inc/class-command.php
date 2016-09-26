@@ -10,6 +10,9 @@ class Command {
 	/**
 	 * See what's going on inside of WordPress.
 	 *
+	 * Produces an overview of WordPress' configuration for a high-level
+	 * understanding of what's going on inside of WordPress.
+	 *
 	 * ## OPTIONS
 	 *
 	 * [--format=<format>]
