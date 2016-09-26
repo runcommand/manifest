@@ -16,6 +16,18 @@ wp manifest [--format=<format>]
 Produces an overview of WordPress' configuration for a high-level
 understanding of what's going on inside of WordPress.
 
+```
+$ wp manifest
++--------------+-----------+
+| Field        | Value     |
++--------------+-----------+
+| core_version | 4.6       |
+| core_type    | standard  |
+| database_size | 3 MB     |
+| uploads_size  | 140 B    |
++--------------+-----------+
+```
+
 **OPTIONS**
 
 	[--format=<format>]
