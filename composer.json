@@ -1,6 +1,7 @@
 {
     "name": "runcommand/manifest",
     "description": "See what's going on inside of WordPress.",
+    "type": "wp-cli-package",
     "homepage": "https://runcommand.io/wp/manifest/",
     "license": "MIT",
     "authors": [],
