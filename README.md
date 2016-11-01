@@ -3,8 +3,7 @@ runcommand/manifest
 
 See what's going on inside of WordPress.
 
-[![runcommand open source](https://runcommand.io/wp-content/themes/runcommand-theme/bin/shields/runcommand-open-source.svg)](https://runcommand.io/pricing/)
-[![Build Status](https://travis-ci.org/runcommand/manifest.svg?branch=master)](https://travis-ci.org/runcommand/manifest)
+[![runcommand open source](https://runcommand.io/wp-content/themes/runcommand-theme/bin/shields/runcommand-open-source.svg)](https://runcommand.io/pricing/) [![Build Status](https://travis-ci.org/runcommand/manifest.svg?branch=master)](https://travis-ci.org/runcommand/manifest)
 
 Quick links: [Using](#using) | [Installing](#installing) | [Support](#support)
 
